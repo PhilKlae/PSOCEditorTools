@@ -1,0 +1,16 @@
+{
+    "name": "BulkJsonExporter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f0f1e7b958cc88e4c9fd7f80a45c02d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
